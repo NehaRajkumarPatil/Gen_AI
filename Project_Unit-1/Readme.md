@@ -77,8 +77,11 @@ The system converts raw resume text into a structured format suitable for automa
 ## Sample Output
 
 === Smart Resume Parser ===  
+
 Name: Neha Patil  
+
 University: PES University  
+
 Companies: ['J.P. Morgan Chase & Co', 'General Electric']
 
 ---
